@@ -1,1 +1,1 @@
-<p>Learning <strong>HTML</strong> and building a basic HTMLsite.</p>
+<p>Learning <strong>HTML</strong> and building a basic HTML site.</p>
